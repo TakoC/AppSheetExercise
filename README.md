@@ -1,1 +1,1 @@
-"# AppSheetExercise" 
+A simple app made as an exercise for AppSheet.
