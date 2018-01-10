@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSheetExercise</string>
+    <string name="get_users_button">Get users</string>
+    <string name="user_details_age">Age: %d</string>
+
+    <string name="loading_error_message">An error has occurred</string>
+    <string name="no_results_found">No valid results were found</string>
+</resources>
